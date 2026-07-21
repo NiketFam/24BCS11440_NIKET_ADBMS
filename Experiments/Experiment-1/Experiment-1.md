@@ -9,7 +9,7 @@
 
 
 ###### 1\.**QUESTION LINK**:- https://www.codechef.com/learn/course/sql-intermediate/JJTST2/problems/ASQLPR103?tab=statement
-
+###### 2\.**SUBMISSION LINK**:- https://www.codechef.com/viewsolution/1306487049
 
 
 \--Complete the queries below to insert data into the tables \& retrieving the first records from the first 3 tables.
