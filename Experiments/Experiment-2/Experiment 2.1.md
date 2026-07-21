@@ -10,7 +10,7 @@
 
 ### SUBMISSION LINK:- https://www.codechef.com/viewsolution/1312930601
 
-
+### CODE
 
 SELECT\*  from Arts 
 
