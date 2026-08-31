@@ -2,7 +2,7 @@
 
 
 
-#### QUESTION LINK:- https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01C](https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F?tab=statement)
+#### QUESTION LINK:- https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F?tab=statement
 
 #### 
 
